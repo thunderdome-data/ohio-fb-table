@@ -4,7 +4,11 @@ ohio-fb-table
 What is this?
 -------------
 
-Table of showing outcomes of preps high school state playoff games in Ohio.
+Table of outcomes of preps high school state playoff games in Ohio. This ran in April, 2014.
+
+Live demo: http://www.news-herald.com/sports/20140427/high-school-football-news-herald-playoff-results-database
+
+![HS football](screenshots/ohiofb.png)
 
 Credits
 ---------
